@@ -151,11 +151,15 @@ img{
     font-family: "Dosis";
     letter-spacing: 54px;
     padding-bottom: 102px;
+    color: #fff;
+    text-shadow: 2px 2px 2px #999;
 }
 .inner-content span{
     display: block;
     font-family: "open sans";
     font-size: 19px;
+    color: #fff;
+    text-shadow: 2px 2px 2px #999;
 }
 .inner::before{
     height: 100%;
